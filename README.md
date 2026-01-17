@@ -11,7 +11,14 @@ Use **sanitised** examples only (no passwords, tokens, or personal data).
 - Paste suspicious email/SMS text → get risk score + red flags + next steps  
 - Paste a log line → get explanation + severity + investigation guidance  
 - Select compliance category → get practical UK-focused recommendations
-- 
+
+## Design
+
+- UI: AWS PartyRock (web app interface)
+- LLM Model: Claude via AWS Bedrock
+- Agent / Workflow Layer: Whiskers (prompt + tool/workflow orchestration)
+- Outputs: phishing analysis, log explanation, and UK compliance guidance
+  
 ## 🔥 Features
 ### UK Scam & Phishing Detector
 - Analyses suspicious content (email, SMS, WhatsApp)
