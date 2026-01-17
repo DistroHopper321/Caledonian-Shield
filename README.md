@@ -14,7 +14,7 @@ Use **sanitised** examples only (no passwords, tokens, or personal data).
 - Paste a log line → get explanation + severity + investigation guidance  
 - Select compliance category → get practical UK-focused recommendations
 
-## Design
+## 🧠 Tech Stack
 
 - UI: AWS PartyRock (web app interface)
 - LLM Model: Claude via AWS Bedrock
@@ -35,11 +35,6 @@ Use **sanitised** examples only (no passwords, tokens, or personal data).
 - UK GDPR / data protection awareness
 - Practical guidance for individuals and small organisations
 - Helps map issues to common compliance themes
-
-## 🧠 Tech Stack
-- AWS PartyRock (UI)
-- AWS Bedrock (LLM inference)
-- Whiskers (agent/prompt workflow)
 
 ## 📚 Documentation
 - Architecture: `docs/architecture.md`
