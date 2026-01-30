@@ -1,11 +1,13 @@
-# Caledonian Shield 🛡️
+## AI-GRC-Companion 🛡️
 
 ![Caledonian Shield](docs/Screenshot_20260117_120547.png)
 
-AI-powered security & compliance companion (UK-focused) — phishing analysis, log explanation, and compliance mapping.
+Prototype AI-assisted governance, risk, and compliance companion (UK-focused), demonstrating phishing analysis, log explanation, and compliance mapping using sanitised data. Designed for research, learning, and workflow exploration.
 
-## 🚀 Live Demo
-- PartyRock App: <(https://partyrock.aws/u/Hackathon2025/cDeTQkxCo/Caledonian-Shield)>
+This project supports human-in-the-loop decision-making and is intended for demonstration and educational use.
+
+## 🚀 Live Demo (Prototype)
+- PartyRock App (sanitised examples only): https://partyrock.aws/u/Hackathon2025/cDeTQkxCo/Caledonian-Shield
 
 ## 🧪 Example Usage
 Use **sanitised** examples only (no passwords, tokens, or personal data).
@@ -47,7 +49,7 @@ Use **sanitised** examples only (no passwords, tokens, or personal data).
 
 ## 🔐 Security & Data Handling
 This repository contains **no secrets** and **no credentials**.
-
+This tool should not be used as an authoritative decision system.
 All examples are **sanitised** and intended for educational/demo purposes only.
 
 ## 📌 Roadmap
